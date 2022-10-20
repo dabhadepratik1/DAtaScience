@@ -1,3 +1,4 @@
 # ignore file
 NLP/Fake News Classifier/pkl_files
 NLP/Spam Mail Classifier/pkl_files
+NLP/Quora/QPS_tempdf.csv
